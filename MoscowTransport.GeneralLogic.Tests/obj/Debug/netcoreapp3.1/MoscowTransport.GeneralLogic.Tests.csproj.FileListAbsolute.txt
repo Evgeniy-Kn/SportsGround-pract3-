@@ -1,0 +1,4 @@
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\MoscowTransport.GeneralLogic.Tests.csprojAssemblyReference.cache
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\MoscowTransport.GeneralLogic.Tests.AssemblyInfoInputs.cache
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\MoscowTransport.GeneralLogic.Tests.AssemblyInfo.cs
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic.Tests\obj\Debug\netcoreapp3.1\MoscowTransport.GeneralLogic.Tests.csproj.CoreCompileInputs.cache

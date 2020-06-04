@@ -1,0 +1,18 @@
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.AssemblyInfo.cs
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic\bin\Debug\netstandard2.1\MoscowTransport.GeneralLogic.deps.json
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic\bin\Debug\netstandard2.1\MoscowTransport.GeneralLogic.dll
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic\bin\Debug\netstandard2.1\MoscowTransport.GeneralLogic.pdb
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.dll
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.pdb
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3 — копия\MoscowTransport.GeneralLogic\bin\Debug\netstandard2.1\MoscowTransport.GeneralLogic.deps.json
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3 — копия\MoscowTransport.GeneralLogic\bin\Debug\netstandard2.1\MoscowTransport.GeneralLogic.dll
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3 — копия\MoscowTransport.GeneralLogic\bin\Debug\netstandard2.1\MoscowTransport.GeneralLogic.pdb
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3 — копия\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3 — копия\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3 — копия\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.AssemblyInfo.cs
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3 — копия\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3 — копия\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.dll
+C:\Users\knyaz\Desktop\ооп2\transportschedule-pract3 — копия\MoscowTransport.GeneralLogic\obj\Debug\netstandard2.1\MoscowTransport.GeneralLogic.pdb

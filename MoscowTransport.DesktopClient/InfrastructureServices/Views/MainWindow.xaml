@@ -1,0 +1,42 @@
+﻿<Window x:Class="NameFacilities.DesktopClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NameFacilities.DesktopClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <FontFamily x:Key="MoscowSans">
+            pack://application:,,,/Fonts/#Moscow Sans Regular
+        </FontFamily>
+    </Window.Resources>
+    <Grid TextBlock.FontFamily="{StaticResource MoscowSans}" TextBlock.FontSize="14">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <ListBox Grid.Column="0" Padding="5" Background="#FF0033A0" Foreground="White" ItemsSource="{Binding NameFacilities}" SelectedItem="{Binding CurrentNamefacility}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5">
+                        <TextBlock FontSize="24" Text="{Binding Path=TypeofSportsGround}"/>
+                        <TextBlock FontSize="14" Text="{Binding Path=AdministrativeDistrict}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <StackPanel Grid.Column="1" DataContext="{Binding CurrentNameFacility}">
+            <TextBlock Padding="2" Text="Тип площадки"></TextBlock>
+            <TextBlock Padding="2" Text="{Binding TypeofSportsGround}"></TextBlock>
+            <TextBlock Padding="2" Text="{Binding AdministrativeDistrict}"></TextBlock>
+            <TextBlock Padding="2" Text="{Binding Area}"></TextBlock>
+            <TextBlock Padding="2" Text="{Binding Address}"></TextBlock>
+            <TextBlock Padding="2" Text="{Binding Lightinh}"></TextBlock>
+        </StackPanel>
+
+
+    </Grid>
+</Window>
